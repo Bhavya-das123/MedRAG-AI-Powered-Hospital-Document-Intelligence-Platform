@@ -19,7 +19,32 @@ The platform delivers **evidence-based answers with source citations**, ensuring
 * 📊 Clinical audit trail for previous queries
 * 🔐 Privacy-preserving, offline-capable architecture
 
----
+
+📦 requirements.txt
+
+fastapi
+uvicorn
+streamlit
+requests
+
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+
+chromadb
+faiss-cpu
+
+sentence-transformers
+pypdf
+
+torch
+transformers
+
+python-multipart
+
 
 ## 🏗️ System Architecture
 
